@@ -1,0 +1,25 @@
+{
+  "name": "basic-informational-site-odin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasuketokumitsu/basic-informational-site-odin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasuketokumitsu/basic-informational-site-odin/issues"
+  },
+  "homepage": "https://github.com/hasuketokumitsu/basic-informational-site-odin#readme",
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-prettier": "^8.1.0",
+    "prettier": "2.2.1"
+  }
+}
